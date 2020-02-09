@@ -2,7 +2,6 @@
 #este es un comentario
 '''
 este es otro comentario
-mayusculas = .upper()  minusculas .lower()
 '''
 num = 5
 exponente = 2
